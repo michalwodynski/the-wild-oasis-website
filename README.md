@@ -84,6 +84,10 @@ npm run dev
 
 4. Otwórz `http://localhost:3000` w przeglądarce.
 
+## Kontekst Projektu
+
+Ten projekt został stworzony jako część kursu **"Ultimate React Course"** prowadzonego przez **Jonasa Schmedtmanna**.
+
 ## Gdzie szukać w repozytorium
 
 - `app/page.js` — Strona główna
